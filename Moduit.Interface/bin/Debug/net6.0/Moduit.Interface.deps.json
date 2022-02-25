@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Moduit.Interface/1.0.0": {
+        "dependencies": {
+          "Moduit.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Moduit.Interface.dll": {}
+        }
+      },
+      "Moduit.DTO/1.0.0": {
+        "runtime": {
+          "Moduit.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Moduit.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Moduit.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

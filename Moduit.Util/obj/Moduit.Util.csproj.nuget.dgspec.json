@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Util\\Moduit.Util.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Constant\\Moduit.Constant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Constant\\Moduit.Constant.csproj",
+        "projectName": "Moduit.Constant",
+        "projectPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Constant\\Moduit.Constant.csproj",
+        "packagesPath": "C:\\Users\\hartono.rachmat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Constant\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hartono.rachmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://r3app-server.ad-ins.com:5100/v3/index.json": {},
+          "http://r3app-server:5400/v3/index.json": {},
+          "http://r3app-server:5500/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.DTO\\Moduit.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.DTO\\Moduit.DTO.csproj",
+        "projectName": "Moduit.DTO",
+        "projectPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.DTO\\Moduit.DTO.csproj",
+        "packagesPath": "C:\\Users\\hartono.rachmat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hartono.rachmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://r3app-server.ad-ins.com:5100/v3/index.json": {},
+          "http://r3app-server:5400/v3/index.json": {},
+          "http://r3app-server:5500/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Util\\Moduit.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Util\\Moduit.Util.csproj",
+        "projectName": "Moduit.Util",
+        "projectPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Util\\Moduit.Util.csproj",
+        "packagesPath": "C:\\Users\\hartono.rachmat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hartono.rachmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://r3app-server.ad-ins.com:5100/v3/index.json": {},
+          "http://r3app-server:5400/v3/index.json": {},
+          "http://r3app-server:5500/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Constant\\Moduit.Constant.csproj": {
+                "projectPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.Constant\\Moduit.Constant.csproj"
+              },
+              "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.DTO\\Moduit.DTO.csproj": {
+                "projectPath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.DTO\\Moduit.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

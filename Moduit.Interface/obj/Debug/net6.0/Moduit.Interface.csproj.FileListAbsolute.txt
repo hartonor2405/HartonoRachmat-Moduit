@@ -1,0 +1,15 @@
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\bin\Debug\net6.0\Moduit.Interface.deps.json
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\bin\Debug\net6.0\Moduit.Interface.dll
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\bin\Debug\net6.0\ref\Moduit.Interface.dll
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\bin\Debug\net6.0\Moduit.Interface.pdb
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.AssemblyInfoInputs.cache
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.AssemblyInfo.cs
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.csproj.CoreCompileInputs.cache
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.dll
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\ref\Moduit.Interface.dll
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.pdb
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\bin\Debug\net6.0\Moduit.DTO.dll
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\bin\Debug\net6.0\Moduit.DTO.pdb
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.csproj.AssemblyReference.cache
+C:\Users\hartono.rachmat\source\repos\Moduit\Moduit.API\Moduit.Interface\obj\Debug\net6.0\Moduit.Interface.csproj.CopyComplete

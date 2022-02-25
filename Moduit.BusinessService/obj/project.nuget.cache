@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mIR47b5XJvI0Y9sZn6kshf2KRkrJDvIgPns9rzxjrXrVOL9Pk54/pVboZ/Q9KTfIMUcZAb0EUsMC35GHds929g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hartono.rachmat\\source\\repos\\Moduit\\Moduit.API\\Moduit.BusinessService\\Moduit.BusinessService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.7\\microsoft.aspnetcore.jsonpatch.5.0.7.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.7\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.7.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\hartono.rachmat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

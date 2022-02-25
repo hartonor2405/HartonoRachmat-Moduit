@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f23f6e7a-d788-43f0-b126-0d598195a249": {
+      "ProjectGuid": "f23f6e7a-d788-43f0-b126-0d598195a249",
+      "DisplayName": "Moduit.API",
+      "ColorIndex": 0
+    },
+    "79d7008d-93bd-484d-920b-bb5000ab8ef3": {
+      "ProjectGuid": "79d7008d-93bd-484d-920b-bb5000ab8ef3",
+      "DisplayName": "Moduit.Util",
+      "ColorIndex": 1
+    },
+    "eb8804ad-e2ec-4ebe-b425-950d4ec7ba42": {
+      "ProjectGuid": "eb8804ad-e2ec-4ebe-b425-950d4ec7ba42",
+      "DisplayName": "Moduit.Constant",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5e84f661-746a-4c61-aef1-9cae8cb9889e": {
+      "ProjectGuid": "5e84f661-746a-4c61-aef1-9cae8cb9889e",
+      "DisplayName": "Moduit.BusinessService",
+      "ColorIndex": 3
+    },
+    "56d33f8c-daf7-4cc6-806f-9ce9374dfe42": {
+      "ProjectGuid": "56d33f8c-daf7-4cc6-806f-9ce9374dfe42",
+      "DisplayName": "Moduit.Interface",
+      "ColorIndex": 4
+    },
+    "205c7472-6455-4730-926d-f380bc38c0e5": {
+      "ProjectGuid": "205c7472-6455-4730-926d-f380bc38c0e5",
+      "DisplayName": "Moduit.DTO",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
