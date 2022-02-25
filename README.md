@@ -1,6 +1,6 @@
 This Repository is For Technical Skill Interview at Moduit
 
-To Open This Project using .NET 6 and can be open using visual studio 2022
+This Project using .NET 6 and can be open using visual studio 2022
 
 For Question Number One Use Route : Screening/QuestionOne
 
